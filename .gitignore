@@ -1,1 +1,5 @@
 /snowballstem-26b06a2c243d4f8ca5db3486f94409dd5b2a7467.tar.gz
+/snowballstem-26b06a2c243d4f8ca5db3486f94409dd5b2a7467
+
+*.rpm
+*.log
